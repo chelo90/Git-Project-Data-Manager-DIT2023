@@ -1,0 +1,26 @@
+Exercice 0
+----------
+- Executez chacune des boucles suivantes
+
+for i in range(10, 15):
+    print(i)
+
+for i in range(20,40,2):
+    print(i)
+
+for i in range(20):
+    if i%2 == 0:
+       print(i)
+
+for i in range(20):
+    if i%2 != 0:
+       print(i)
+
+- Analysez puis expliquez avec un maximum de détail ce que fait chaque boucle
+- En vous inspirant des boucles précédentes, écrire une boucle:
+  - qui affiche les nombres de 0 à 1000 de 2 en 2
+  - qui affiche les nombres de 0 à 1000 de 10 en 10
+  - qui affiche les nombres de 0 à 1000 de 100 en 100
+  - qui affiche les nombres de -15 à 15
+  - qui affiche les nombres de -30 à 30 de 5 en 5
+  - qui affiche les nombres de 50 à 100 de 3 en 3

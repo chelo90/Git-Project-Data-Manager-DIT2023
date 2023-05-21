@@ -1,0 +1,4 @@
+Exercice 4:
+-----------
+- Ecrire un programme qui utilise turtle pour écrire (dessiner) votre nom
+- Ecrire un programme qui utilise turtle pour écrire (dessiner) votre nom (chaque lettre ayant une couleur différente)

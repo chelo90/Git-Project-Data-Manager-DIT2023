@@ -1,0 +1,22 @@
+Exercice 1:
+-----------
+Ecrire un programme qui demande à l'utilisateur de saisir un nombre N.
+Le programme devra ensuite calculer puis afficher la somme des nombres compris entre 1 et N.
+
+Par exemple, si l'utilisateur tape le nombre 10,
+Le programme devra afficher 55 çad: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+
+
+EXercice 2:
+-----------
+Ecrivez un programme qui demande à l'utilisateur
+- "longeur? "
+- "largeur? "
+
+Le programme devra ensuite calculer et afficher:
+- la surface est ...
+- le perimetre est ...
+
+Le programme devra ensuite demander à l'utilisateur s'il veut tracer le rectangle:
+- Si l'utilisateur répond "oui", tracer la figure puis afficher "aurevoir"
+- Si l'utilisateur répond "non", afficher un message: "aurevoir"

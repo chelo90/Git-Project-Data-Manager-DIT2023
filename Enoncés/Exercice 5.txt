@@ -1,0 +1,18 @@
+Exercice 5:
+-----------
+Soit le programme suivant:
+
+counter = 0
+end_value = 100
+print("counter value", counter)
+while counter <= end_value:
+    print(counter)
+    counter = counter + 1
+print("counter value", counter)
+
+- Expliquez ce que fait le programme, ligne par ligne
+- Quelle est la différence entre une boucle for et une boucle while?
+- Ecrivez le programme précédent en utilisant une boucle for
+- Inspirez vous du programme précédent pour en écrire un qui:
+  - affiche les nombres allant de 10 à 20 en comptant de 2 en 2
+  - affiche les nombres allant de 20 à 10 en comptant de 4 en 4
