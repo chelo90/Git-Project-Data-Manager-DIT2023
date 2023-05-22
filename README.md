@@ -62,7 +62,7 @@ Le programme devra ensuite demander à l'utilisateur s'il veut tracer le rectang
 - Si l'utilisateur répond "non", afficher un message: "aurevoir"
 
 
-Exercice 2
+Exercice 3
 ----------
 Soit le programme suivant:
 
@@ -93,7 +93,7 @@ Les figures acceptées sont:
 - "cylindre", "cône", "pyramide", "prisme hexagonal"
 
 
-Exercice 3:
+Exercice 4:
 -----------
 Ecrivez un programme qui demande à l'utilisateur d'entrer
 - t: sa taille en m (convertir t en nombre réel)
@@ -110,13 +110,13 @@ Si IMC est:
 - supérieur à 30: "obésité"
 
 
-Exercice 4:
+Exercice 5:
 -----------
 - Ecrire un programme qui utilise turtle pour écrire (dessiner) votre nom
 - Ecrire un programme qui utilise turtle pour écrire (dessiner) votre nom (chaque lettre ayant une couleur différente)
 
 
-Exercice 5:
+Exercice 6:
 -----------
 Soit le programme suivant:
 
@@ -136,7 +136,7 @@ print("counter value", counter)
   - affiche les nombres allant de 20 à 10 en comptant de 4 en 4
 
 
-Exercice 6:
+Exercice 7:
 -----------
 Soit le programme suivant,
 - saisissez le à l'aide de Idle,

@@ -1,27 +1,18 @@
 Exercice 6:
 -----------
-Soit le programme suivant,
-- saisissez le à l'aide de Idle,
-- sauvegardez le dans un fichier nommé triangle_while_loop.py, puis executez le:
+Soit le programme suivant:
 
-import turtle
-tr = turtle.Turtle()
+counter = 0
+end_value = 100
+print("counter value", counter)
+while counter <= end_value:
+    print(counter)
+    counter = counter + 1
+print("counter value", counter)
 
-pixels = 200
-side_count = 0
-
-while side_count < 3:
-    if side_count == 0:
-        angle = 0
-    else:
-        angle = 120
-
-    tr.left(angle)
-    tr.forward(pixels)
-    side_count = side_count + 1
-
-turtle.exitonclick()
-
-- Expliquez ce que fait le programme, ligne par ligne.
-- Inspirez vous du programme précédent et écrivez en un pour tracer un carré orange incliné de 30 degré sur la gauche
-- Inspirez vous du programme précédent et écrivez en un pour tracer un rectangle bleu incliné de 45 degré sur la droite
+- Expliquez ce que fait le programme, ligne par ligne
+- Quelle est la différence entre une boucle for et une boucle while?
+- Ecrivez le programme précédent en utilisant une boucle for
+- Inspirez vous du programme précédent pour en écrire un qui:
+  - affiche les nombres allant de 10 à 20 en comptant de 2 en 2
+  - affiche les nombres allant de 20 à 10 en comptant de 4 en 4
