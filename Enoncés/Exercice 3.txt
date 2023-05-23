@@ -1,0 +1,29 @@
+Exercice 3
+----------
+Soit le programme suivant:
+
+import turtle
+
+polygon = turtle.Turtle()
+
+color = "green"
+num_sides = 6
+side_length = 70
+angle = 360.0 / num_sides
+
+polygon.color(color)
+
+for i in range(num_sides):
+    polygon.forward(side_length)
+    polygon.right(angle)
+
+turtle.exitonclick()
+
+En vous inspirant du programme précédent, écrivez un programme qui demande à l'utilisateur
+- "quelle figure voulez vous tracer?"
+- "de quelle couleur doit être le contour de la figure?"
+
+L'utilisateur devra saisir le nom d'un figure puis le nom d'une couleur
+Le programme devra tracer cette figure en respectant la couleur choisie
+Les figures acceptées sont:
+- "cylindre", "cône", "pyramide", "prisme hexagonal"
