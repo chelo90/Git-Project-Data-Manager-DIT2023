@@ -5,7 +5,7 @@ Membres du Groupe:
 2- DIALLO Saifoulaye
 
 **********************************************************************************************************************************************************
-DIRECTIVES DE L'ENSEIGNANT
+DIRECTIVES DE L'ENSEIGNANT:
 Crééer un dépôt contenant au moins deux repertoires: énoncés et solutions dans le repertoire solutions: plusieurs fichier Python, un fichier par solution
 si nécessaire: travaillez à deux ou à trois, en utilisant des branches.
 Bon courage à tous et à toutes
